@@ -1,8 +1,8 @@
 
 # DSAProblemsHub:
-A Collection of Data Structures and Algorithms Problems Solved in Python.
+A Collection of Data Structures and Algorithms Problems.
 ## Description:
-Welcome to DSAProblemsHub! This repository is your go-to destination for solving Data Structures and Algorithms (DSA) problems using Python. Whether you're a beginner looking to sharpen your problem-solving skills or an experienced programmer aiming to tackle advanced challenges, you'll find a diverse collection of DSA problems here.
+Welcome to DSAProblemsHub! This repository is your go-to destination for solving Data Structures and Algorithms (DSA) problems. Whether you're a beginner looking to sharpen your problem-solving skills or an experienced programmer aiming to tackle advanced challenges, you'll find a diverse collection of DSA problems here.
 
 ##  Contribution
 We're excited to announce that this repository is actively participating in Hacktoberfest 2023! It's a fantastic opportunity for you to make meaningful contributions to the world of open source while enhancing your DSA knowledge. We encourage you to join us during Hacktoberfest by submitting your solutions, adding new problems, improving documentation, or helping with code reviews.
@@ -18,7 +18,7 @@ We welcome contributions from the community. To contribute:
 
 3. Choose a problem from the relevant topic directory.
 
-4. Write your solution in  Python  and place it in the respective topic folder.
+4. Write your solution  and place it in the respective topic folder.
 
 5. Create a new branch for your contribution.
 
