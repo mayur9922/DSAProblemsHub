@@ -27,7 +27,7 @@ We welcome contributions from the community. To contribute:
 7. Commit your changes and push them to your forked repository.
 
 8. Create a pull request (PR) with a clear description of your contribution.
-9. Don't forget to leave a star for this repository.
+9. Don't forget to leave a star ⭐ for this repository.
 
 ## License:
 This repository is open-source and is licensed under the [MIT License](LICENSE).
